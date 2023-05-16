@@ -8,7 +8,6 @@ Answering the following questions using SparkSQL:
 |date_built|avg_price|
 
 
-+----------+---------+
 |      2010|296800.75|
 
 |      2011| 302141.9|
