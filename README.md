@@ -5,6 +5,7 @@ Answering the following questions using SparkSQL:
   1- What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
 +----------+---------+
+
 |date_built|avg_price|
 
 
